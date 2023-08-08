@@ -1,0 +1,15 @@
+﻿/FlyEngine/Release
+/FlyEngine/Debug
+/Debug
+/Release
+/.vs
+/FlyEngine/x64/Debug
+/FlyEngine/Logs/
+/FlyEngine/imgui.ini
+/FlyEngine/memory_leak_report.txt
+/FlyEngine/output.json
+/FlyEngine/Resources/Assets/Levels/Serialized/*.json
+/enc_temp_folder/73b1183b96d4e53f857161b665a3fcbe/Reflection.cpp
+/enc_temp_folder/e3ce159d82ff15b12af699d38934851/Collider.cpp
+/FlyEngine/Resources/Assets/Levels/Output1.json
+/FlyEngine/Resources/Assets/Docs
